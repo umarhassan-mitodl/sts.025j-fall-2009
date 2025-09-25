@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 4e8460c6-56a4-0ed2-c62a-72fd9ec27f43
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f634d6d0-bd3a-d0b7-5712-94472afd4638
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 100bed99-21f6-30ae-80b7-14623a4b6dcf
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
